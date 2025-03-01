@@ -1,0 +1,14 @@
+//prefix and infix notation
+
+1.
+to use infix as prefix notation, add ()
+to use prefix and infix, add ''
+
+ghci> (+) 1 2
+3
+
+ghci> 7 `mod` 3
+1
+
+2. the order of calculation is same in mathmetics
+
